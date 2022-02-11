@@ -1,0 +1,2 @@
+# progettoTypeScript
+progetto Alice Vigo
